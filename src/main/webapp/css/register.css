@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#register-box a {
+    color: green;
+}
+
+#register-box a:hover {
+    color: green;
+}
+
+#register-box a:link {
+    color: green;
+}
+
+#register-box {
+    margin: 100px auto;
+    text-align: center;
+    border: 2px solid green;
+    height: 300px;
+    width: 600px;
+}
+
+#register-table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.text-input {
+    margin: 10px auto;
+    height: 20px;
+    width: 300px;
+    outline: none;
+}
+
+#register-btn {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 20px;
+    background: green;
+    color: white;
+}

@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main-box {
+    margin: 20px auto;
+    text-align: center;
+}
+
+#title {
+    margin: 20px;
+}
+
+#title h1 {
+    color: green;
+}
+
+#your-level-box {
+    margin: 20px;
+}
+
+#your-best-level {
+    font-size: 20px;
+}
+
+#return-href a {
+    color: green;
+}
+
+#return-href a:hover {
+    color: green;
+}
+
+#return-href a:link {
+    color: green;
+}
+
+#level-list {
+    margin: 20px auto;
+}
+
+#level-list-table {
+    margin: 0 auto;
+    border: 1px solid green;
+}
+
+th {
+    padding: 2px 20px;
+    border: 1px solid green;
+}
+
+td {
+    padding: 2px 20px;
+    border: 1px solid green;
+}
+
+
+#pages {
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+#pages li {
+    border: 1px solid green;
+    width: 20px;
+    height: 20px;
+}
+
+#pages li a {
+    color: green;
+    text-decoration: none;
+}
+
+#pages li a:hover {
+    color: green;
+}
+
+#pages li a:link {
+    color: green;
+}
